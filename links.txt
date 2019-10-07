@@ -1,0 +1,6 @@
+links.txt
+Created Mon Oct  7 08:54:23 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Adobe application related links
