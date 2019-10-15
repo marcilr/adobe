@@ -6,6 +6,47 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Acrobat Document Cloud (Acrobat DC)
 Skill Builder
 
+
+Tue Oct 15 07:58:50 AKDT 2019
+=============================
+Title: Go Digital: Intro to Acrobat DC & its companion mobile apps
+URL: https://event.on24.com/wcc/r/2105874/BC7B76D58A5CB78978774DE08C52B0DE
+Date: Tuesday, October 15, 2019
+Time: 09:00 AM PDT
+Duration: 1 hour
+
+Speaker" Lori Defurio
+         Group Manager
+         Adobe Document Clound
+
+3-part series:
+  1. Go Digital
+     Acrobat Pro DC, Office 365, 
+     Mobile apps: Adobe Scan, Adobe Acrobat Reader
+
+     o Have Adobe Acrobat Pro DC install on win 10 workstaion.
+     o right-click on file and convert to pdf
+     o Click on Acrobat at top in word to display the Acrobat
+       ribbon in word.
+     o Can secure pdf document and change control with password
+     o learn.adobe.com/arcrobat for more indepth details
+     o Add more tool icons to Adobe Acrobat DC display?
+       Observe the tool icons on the right, move to horisontal
+       on top?
+     o Will be available on demand.  Will be emailed tomorrow.
+
+  2. Stay Digital: Edit, review, and sign PDF files -  October 22
+     Edit PDFs, share content, ..., ...
+
+  3. Get Work Done: Advanced document tasks in Acrobat DC, October 29
+     About security. Need Acrobat Pro DC for this session
+     Protect pdfs, Compare files, Create fillable PDF forms
+
+
+ctrl-L to make acrobat full-screen
+
+An introduction to Adobe Acrobat DC
+
 Registered fro:
   Thank you for registering
   Attendance details have been emailed to you.
