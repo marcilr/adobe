@@ -6,6 +6,75 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Acrobat Document Cloud (Acrobat DC)
 Skill Builder
 
+Acrobat Reader Pro installed on
+SOA OIT DNR workstation:
+  Adobe Acrobat Reader DC v2019.012.20035 (Help > About Acrobat Reader DC...)
+
+
+
+Tue Oct 22 07:46:36 AKDT 2019
+=============================
+The second Adobe Acrobat training session.
+
+Adobe CLoud Skill builder
+Edit, review, and sign PDF files
+8:00 AM Tuesday, October 22, 2019
+by Lori DeFurio
+
+
+o Acrobat
+SOA OIT DNR has Adobe Acrobat Reader DC available
+
+Tue Oct 22, 2019 presentation on Acrobat Reader Pro
+AT SOA OIT DNR have:
+  Adobe Acrobat Reader DC v2019.012.20035
+
+Observe that Home > Scans has free Adobe Scan app download:
+  Turn your phone of tablet into a portable scanner to
+  scan anything to PDF.
+
+  Download now.
+
+  Download on the App Store (Apple)
+  Get it on Google Play (Android)
+
+  Already and Adobe Scan user? Sign in to access your scans.
+
+o Adobe Scan
+- Auto-capture (icon) adobe finds 4-corners
+  of document page automatically
+- crop, rotate
+- color: autocolor or grayscale
+         current page or all
+- can rename from datestamp to better name
+- creates editable, srearchable file
+NOTE: Not Adobe scan in the SOA OIT DNR applications
+
+
+
+Links (found)
+=============
+Scan a paper document to PDF (Acrobat)
+Does Adobe Acrobat Reader DC support OCR?
+https://helpx.adobe.com/acrobat/using/scan-documents-pdf.html?x-product=CCDesktop%2F5.0.0.354&guid=bfbb7860-331f-46ca-a9cf-cf5c7a475a19&x-product-location=Search%3ATopResults%3ASupport%2F0.3.2&code=eyJ4NXUiOiJpbXNfbmExLWtleS0xLmNlciIsImFsZyI6IlJTMjU2In0.eyJpZCI6IjE1NzE3NjA2NTUxMzRfYmYzZWNiYmEtODg3NS00ODdmLWEyNmYtNTAyYzExYTZiYzQyX3VlMSIsImNsaWVudF9pZCI6ImFkb2JlZG90Y29tMiIsInVzZXJfaWQiOiJDQzNGN0ZEOTVDQzQ4RTc5MEE0OTVFNzNAMDk2MjNmOWU1YmY1OWE1NTBhNDk1ZWNjIiwidHlwZSI6ImF1dGhvcml6YXRpb25fY29kZSIsImFzIjoiaW1zLW5hMSIsImZnIjoiVDMzSEpNQ0ZITE81S0hXMkNPQUxBS1FBTFE9PT09PT0iLCJzaWQiOiIxNTcxNzYwNjU1MTYzX2JiZWFhYmYyLTQwMmEtNDRhYS1hZmNlLTY4MjUyZTRiZTdkNF91ZTEiLCJvdG8iOiJ0cnVlIiwiZXhwaXJlc19pbiI6IjE4MDAwMDAiLCJzY29wZSI6IkFkb2JlSUQsb3BlbmlkLGduYXYsY3JlYXRpdmVfY2xvdWQsc2FvLmNyZWF0aXZlX2Nsb3VkLHJlYWRfb3JnYW5pemF0aW9ucyxzYW8uY2NlX3ByaXZhdGUsYWRkaXRpb25hbF9pbmZvLnByb2plY3RlZFByb2R1Y3RDb250ZXh0LGFkZGl0aW9uYWxfaW5mby5yb2xlcyIsImNyZWF0ZWRfYXQiOiIxNTcxNzYwNjU1MTM0In0.eLON7MglX_NXu6GZEfK6jC9KlygYP82JYKaKMgh_krlgbGaqOVN-YRCweosQgcA7iwOGwMIK4nBy6YVBfRN2jtq9UBdN37ND34j3sPA5KoWJ3e3DcjSWHZT9jcfbuArvcczWlfXiSxJNQL0Lhnu0vUP1sJCapfI4uO668Lq509vTXbAOU3wiRav6tEhzqczW5f1bnJOFB3rt1q2nmzfNjp1FNcU2C-oAnywdJnyDHYpkiuoQV12e7tAzxGhxzQjuw0Ixkp6FL5F9Jc_NEVQ9fHPoJ510cZvGw2WO9wukPAsUjqJMm1911jIA466C0em_E18BOo44OpV4kjo-68EJJg
+
+
+From: Adobe <do_not_reply@on24event.com>
+To:   Marcil, Ray E (OIT) <ray.marcil@alaska.gov>
+A friendly reminder that Stay Digital: Edit, review, 
+and sign PDF files begins in two hours.
+
+LIVE WEBCAST DATE:  October 22, 2019
+LIVE WEBCAST TIME:  09:00 AM PDT 
+
+Use the link below to enter the webcast up to 15 minutes before the start.
+
+WEBCAST LINK:  https://event.on24.com/wcc/r/2105986/F58500E8ACB0D09086C81ECF81AC43A6?mode=login&email=ray.marcil@alaska.gov
+EMAIL:  ray.marcil@alaska.gov 
+
+Thank you and enjoy the webcast!
+
+
 
 Wed Oct 16 10:10:43 AKDT 2019
 =============================
