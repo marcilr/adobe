@@ -9,6 +9,9 @@ Filelist
 adobe.txt
   Adobe applications
 
+adobe-acrobat.txt
+  Adobe Acrobat
+
 acrobat-dc-training-20191015-22-29.txt
   Acrobat Document Cloud (Acrobat DC)
 
@@ -20,6 +23,9 @@ acrobat-dc-training-20191015-22-29.txt
   Title: Go Digital: Intro to Acrobat DC & its companion mobile apps
   Title: Stay Digital: Edit, review, and sign PDF files
   Title: Get Work Done: Advanced document tasks in Acrobat DC
+
+adobe-scan.txt
+  Adobe Scan app
 
 links.txt
   Adobe related links
