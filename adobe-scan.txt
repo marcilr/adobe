@@ -6,6 +6,16 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Adobe Scan
 
 
+First run on Samsun Galaxyh 7 mobile
+Welcome to Adobe Scan!
+Your scans will be saved to Adobe Document Cloud.
+To get started, please provide permission to access
+you camera.
+
+clic Let's Go
+
+
+
 Install Adobe Scan (on mobile)
 ==================
 In Adobe Acrobat Reader DC observed that Home > Scans
@@ -49,9 +59,77 @@ Already have an Adobe ID?
 Sign in or sign up.
 
 
+
+
 Tue Oct 22 08:21:25 AKDT 2019
 =============================
-During Adobe Scan online presentation at SOA OIT DNR
+o 9:10AM First run on Samsung Galaxy 7 mobile
+Welcome to Adobe Scan!
+Your scans will be saved to Adobe Document Cloud.
+To get started, please provide permission to access
+you camera.
+  click Let's Go
+
+Allow Adobe Scan to take pictures and record video?
+  click ALLOW
+
+Tap the screen wen you're ready to scan.  We'll find
+the borders, and take the photo for you.
+
+Test on adobe acrobat video presentation page.
+
+Once 4 bounary dots identified
+  click Continue
+  click scanned page
+  click "Scan Oct 22 2019" to rename to:
+  click Save PDF in upper right of Adobe Scan
+    Saving as PDF...
+    Uploading to document cloud...
+    Recognizing text...
+
+  Now get command selection:
+    Share
+    Acrobat
+    Fill & Sign
+    More
+    Keep on scanning.
+    Start a new scan from camera or imported
+
+  click Share
+
+  Options:
+    Share Link
+    Email...
+    Share a Copy
+
+  click Email
+  click Gmail
+
+  Mailed to work and gmail accounts.
+  Work gmail opened link to Adobe Cloud,
+  logged in with SOA OIT DNR account
+  Downloaded first-scan-20191022.pdf to dnr
+  workstation.
+
+  click send icon
+
+On top of Adobe Scan app observe:
+  Save PDF
+  Scan Oct 22, 2019
+
+In middle of app observe:
+  Screen shot picture taken with mobile camera
+  in Adobe Scan 
+
+On bottom of app observe:
+  Add Page
+  Reorder
+  Crop Rotate
+  Color
+  Cleanup
+  Delete
+
+o During Adobe Scan online presentation at SOA OIT DNR
 observed;
 
 - Auto-capture (icon) adobe finds 4-corners
