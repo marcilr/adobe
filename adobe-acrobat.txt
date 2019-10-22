@@ -10,6 +10,8 @@ Installed on SOA OIT DNR workstation:
   Adobe Acrobat Reader DC v2019.012.20035
 
 
+First try at Adobe Acrobat Pro DC ocr recognition did not 
+appear to work.  ONly created non-text pdf document.
 
 
 Commands
@@ -17,3 +19,19 @@ Commands
 F7 - check spelling in comments
 
 Use fill and sign icon to populate series of connected boxes
+
+
+For ocr click Edit PDF, get:
+  Adobe Acrobat Reader
+  You are using free Acrobat Reader instead of the complete
+  Adobe Acrobat DC installed on your machine.  Open this file
+  in Acrobat DC to edit, combine, and more.
+
+  click OK
+
+NOTE: Adobe Acrobat Reader DC, no edit or ocr capability
+
+
+Opened using:
+  Adobe Acrobat Pro DC v2019.021.20048 application
+  click Edit PDF
