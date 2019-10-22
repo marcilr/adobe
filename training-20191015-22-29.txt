@@ -1,0 +1,242 @@
+acrobat-dc-training-20191015-22-29.txt
+Created Mon Oct  7 09:08:27 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Acrobat Document Cloud (Acrobat DC)
+Skill Builder
+
+Acrobat Reader Pro installed on
+SOA OIT DNR workstation:
+  Adobe Acrobat Reader DC v2019.012.20035 (Help > About Acrobat Reader DC...)
+
+
+
+Tue Oct 22 07:46:36 AKDT 2019
+=============================
+The second Adobe Acrobat training session.
+
+Adobe CLoud Skill builder
+Edit, review, and sign PDF files
+8:00 AM Tuesday, October 22, 2019
+by Lori DeFurio
+
+
+o Acrobat
+SOA OIT DNR has Adobe Acrobat Reader DC available
+
+Tue Oct 22, 2019 presentation on Acrobat Reader Pro
+AT SOA OIT DNR have:
+  Adobe Acrobat Reader DC v2019.012.20035
+
+- click share or share for review
+
+Observe that Home > Scans has free Adobe Scan app download:
+  Turn your phone of tablet into a portable scanner to
+  scan anything to PDF.
+
+  Download now.
+
+  Download on the App Store (Apple)
+  Get it on Google Play (Android)
+
+  Already and Adobe Scan user? Sign in to access your scans.
+
+o Adobe Scan
+- Auto-capture (icon) adobe finds 4-corners
+  of document page automatically
+- crop, rotate
+- color: autocolor or grayscale
+         current page or all
+- can rename from datestamp to better name
+- creates editable, srearchable file
+NOTE: Not Adobe scan in the SOA OIT DNR applications
+
+
+
+Links (found)
+=============
+Scan a paper document to PDF (Acrobat)
+Does Adobe Acrobat Reader DC support OCR?
+https://helpx.adobe.com/acrobat/using/scan-documents-pdf.html?x-product=CCDesktop%2F5.0.0.354&guid=bfbb7860-331f-46ca-a9cf-cf5c7a475a19&x-product-location=Search%3ATopResults%3ASupport%2F0.3.2&code=eyJ4NXUiOiJpbXNfbmExLWtleS0xLmNlciIsImFsZyI6IlJTMjU2In0.eyJpZCI6IjE1NzE3NjA2NTUxMzRfYmYzZWNiYmEtODg3NS00ODdmLWEyNmYtNTAyYzExYTZiYzQyX3VlMSIsImNsaWVudF9pZCI6ImFkb2JlZG90Y29tMiIsInVzZXJfaWQiOiJDQzNGN0ZEOTVDQzQ4RTc5MEE0OTVFNzNAMDk2MjNmOWU1YmY1OWE1NTBhNDk1ZWNjIiwidHlwZSI6ImF1dGhvcml6YXRpb25fY29kZSIsImFzIjoiaW1zLW5hMSIsImZnIjoiVDMzSEpNQ0ZITE81S0hXMkNPQUxBS1FBTFE9PT09PT0iLCJzaWQiOiIxNTcxNzYwNjU1MTYzX2JiZWFhYmYyLTQwMmEtNDRhYS1hZmNlLTY4MjUyZTRiZTdkNF91ZTEiLCJvdG8iOiJ0cnVlIiwiZXhwaXJlc19pbiI6IjE4MDAwMDAiLCJzY29wZSI6IkFkb2JlSUQsb3BlbmlkLGduYXYsY3JlYXRpdmVfY2xvdWQsc2FvLmNyZWF0aXZlX2Nsb3VkLHJlYWRfb3JnYW5pemF0aW9ucyxzYW8uY2NlX3ByaXZhdGUsYWRkaXRpb25hbF9pbmZvLnByb2plY3RlZFByb2R1Y3RDb250ZXh0LGFkZGl0aW9uYWxfaW5mby5yb2xlcyIsImNyZWF0ZWRfYXQiOiIxNTcxNzYwNjU1MTM0In0.eLON7MglX_NXu6GZEfK6jC9KlygYP82JYKaKMgh_krlgbGaqOVN-YRCweosQgcA7iwOGwMIK4nBy6YVBfRN2jtq9UBdN37ND34j3sPA5KoWJ3e3DcjSWHZT9jcfbuArvcczWlfXiSxJNQL0Lhnu0vUP1sJCapfI4uO668Lq509vTXbAOU3wiRav6tEhzqczW5f1bnJOFB3rt1q2nmzfNjp1FNcU2C-oAnywdJnyDHYpkiuoQV12e7tAzxGhxzQjuw0Ixkp6FL5F9Jc_NEVQ9fHPoJ510cZvGw2WO9wukPAsUjqJMm1911jIA466C0em_E18BOo44OpV4kjo-68EJJg
+
+
+From: Adobe <do_not_reply@on24event.com>
+To:   Marcil, Ray E (OIT) <ray.marcil@alaska.gov>
+A friendly reminder that Stay Digital: Edit, review, 
+and sign PDF files begins in two hours.
+
+LIVE WEBCAST DATE:  October 22, 2019
+LIVE WEBCAST TIME:  09:00 AM PDT 
+
+Use the link below to enter the webcast up to 15 minutes before the start.
+
+WEBCAST LINK:  https://event.on24.com/wcc/r/2105986/F58500E8ACB0D09086C81ECF81AC43A6?mode=login&email=ray.marcil@alaska.gov
+EMAIL:  ray.marcil@alaska.gov 
+
+Thank you and enjoy the webcast!
+
+
+
+Wed Oct 16 10:10:43 AKDT 2019
+=============================
+Email with Acrobat DC web training:
+
+From: Adobe <do_not_reply@on24event.com>
+To:   Marcil, Ray E (OIT) <ray.marcil@alaska.gov>
+Date: Wed Oct 16, 2019 9:04AM
+
+Hello,
+
+Thank you for attending Go Digital: Intro to Acrobat DC & its 
+companion mobile apps. This webcast is now on-demand, should 
+you like to view it again. This is part one of a three-part 
+Document Cloud Skill Builder series. You can sign up for the 
+other sessions here. Attend all three sessions and you‘ll 
+receive a certificate of completion to acknowledge your 
+participation in the Skill Builder series. 
+
+Use the link below to enter the webcast at any time.
+
+WEBCAST LINK:  https://event.on24.com/wcc/r/2105874/BC7B76D58A5CB78978774DE08C52B0DE?mode=login&email=ray.marcil@alaska.gov
+EMAIL:  ray.marcil@alaska.gov 
+
+Thank you.
+
+Your Adobe Team
+
+
+
+Tue Oct 15 07:58:50 AKDT 2019
+=============================
+Title: Go Digital: Intro to Acrobat DC & its companion mobile apps
+URL: https://event.on24.com/wcc/r/2105874/BC7B76D58A5CB78978774DE08C52B0DE
+Date: Tuesday, October 15, 2019
+Time: 09:00 AM PDT
+Duration: 1 hour
+
+Speaker" Lori Defurio
+         Group Manager
+         Adobe Document Clound
+
+3-part series:
+  1. Go Digital
+     Acrobat Pro DC, Office 365, 
+     Mobile apps: Adobe Scan, Adobe Acrobat Reader
+
+     o Have Adobe Acrobat Pro DC install on win 10 workstaion.
+     o right-click on file and convert to pdf
+     o Click on Acrobat at top in word to display the Acrobat
+       ribbon in word.
+     o Can secure pdf document and change control with password
+     o learn.adobe.com/arcrobat for more indepth details
+     o Add more tool icons to Adobe Acrobat DC display?
+       Observe the tool icons on the right, move to horisontal
+       on top?
+     o Will be available on demand.  Will be emailed tomorrow.
+
+  2. Stay Digital: Edit, review, and sign PDF files -  October 22
+     Edit PDFs, share content, ..., ...
+
+  3. Get Work Done: Advanced document tasks in Acrobat DC, October 29
+     About security. Need Acrobat Pro DC for this session
+     Protect pdfs, Compare files, Create fillable PDF forms
+
+
+ctrl-L to make acrobat full-screen
+
+An introduction to Adobe Acrobat DC
+
+Registered fro:
+  Thank you for registering
+  Attendance details have been emailed to you.
+  You are registered for:
+
+  Title: Go Digital: Intro to Acrobat DC & its companion mobile apps
+  URL: https://event.on24.com/wcc/r/2105874/BC7B76D58A5CB78978774DE08C52B0DE
+  Date: Tuesday, October 15, 2019
+  Time: 09:00 AM PDT
+  Duration: 1 hour
+
+  Title: Stay Digital: Edit, review, and sign PDF files
+  URL: https://event.on24.com/wcc/r/2105986/F58500E8ACB0D09086C81ECF81AC43A6
+  Date: Tuesday, October 22, 2019
+  Time: 09:00 AM PDT
+  Duration: 1 hour
+
+  Title: Get Work Done: Advanced document tasks in Acrobat DC
+  URL: https://event.on24.com/wcc/r/2105994/53863EEE3251C13703F16F74F4D32EB5
+  Date: Tuesday, October 29, 2019
+  Time: 09:00 AM PDT
+  Duration: 1 hour
+
+
+Summary
+-------
+Join us for the three-part Adobe Document Cloud Skill Builder series.
+Each one-hour session will give you task-based tools and tips to help
+you go digital, stay digital, and get work done.  You'll learn how to
+use Adobe Acrobat DC and mobile apps (including Adobe Scan and Adobe
+Acrobat Reader), and how to perform basic but powerful document tasks
+that simplify your job. Attend all three sessions and the Adobe team
+will send you a certificate of completion to acknowledge your
+participation in the Skill Builder series
+
+
+NOTE: You must have Javascript and Cookies enabled to access this 
+      webcast. Click here for Help.
+
+Webcasts
+--------
+Select one or more of the following webcasts and complete registration.
+Click any webcast listing to view its details.
+
+
+x Go Digital: Intro to Acrobat DC & its companion mobile apps
+  Title:    Go Digital: Intro to Acrobat DC & its companion mobile apps
+  Date:     Tuesday, October 15, 2019
+  Time:     09:00 AM Pacific Daylight Time
+  Duration: 1 hour
+  Tuesday, October 15, 2019, 09:00 AM PDT
+
+  For this first session, you will learn how to:
+  o Create and Combine PDFs from Microsoft Office 
+    and Adobe apps
+  o Convert documents, receipts, and more to PDFs
+    using Adobe Scan and Adobe Acrobat Reader mobile
+    apps
+
+  Go Digital: Intro to Acrobat DC & its companion mobile apps
+  Tuesday, October 15, 2019, 12:00 PM PDT
+
+
+x Stay Digital: Edit, review, and sign PDF files
+  Title:    Stay Digital: Edit, review, and sign PDF files
+  Date:     Tuesday, October 22, 2019
+  Time:     09:00 AM Pacific Daylight Time
+  Duration: 1 hour
+  In the second session, we’ll focus on staying digital 
+  (and away from paper) and you’ll learn how to:
+  o Edit and Organize PDFs
+  o Give and collect feedback using Share and Review
+  o Fill and Sign a document yourself
+
+
+  Stay Digital: Edit, review, and sign PDF files
+  Tuesday, October 22, 2019, 12:00 PM PDT
+
+x  Get Work Done: Advanced document tasks in Acrobat DC
+   Title: Get Work Done: Advanced document tasks in Acrobat DC
+   Date: Tuesday, October 29, 2019
+   Time: 09:00 AM Pacific Daylight Time
+   Duration: 1 hour
+   Tuesday, October 29, 2019, 09:00 AM PDT
+   In the final session, the focus will be on using 
+   Adobe Acrobat DC to be more productive. You’ll learn how to:
+   o Secure PDFs
+   o Compare two versions of a PDF
+   o Create fillable PDF Forms
+
+  Get Work Done: Advanced document tasks in Acrobat DC
+  Tuesday, October 29, 2019, 12:00 PM PDT
+
