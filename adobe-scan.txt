@@ -67,5 +67,3 @@ observed;
 - under Organize pages can drag-n-drop pages to desired location
 - under Search tools
   click Add for an item to add to menu on right
-
-NOTE: No Adobe scan in the SOA OIT DNR applications
