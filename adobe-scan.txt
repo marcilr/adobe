@@ -6,15 +6,10 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Adobe Scan
 
 
-Tue Oct 22 08:21:25 AKDT 2019
-=============================
-During Adobe Scan online presentation at SOA OIT DNR
-observed  I have Acrobat Reader Pro installed on
-workstation:
-
-  Adobe Acrobat Reader DC v2019.012.20035
-
-Observe that Home > Scans has free Adobe Scan app download:
+Install Adobe Scan (on mobile)
+==================
+In Adobe Acrobat Reader DC observed that Home > Scans
+has free Adobe Scan app download:
   Turn your phone of tablet into a portable scanner to
   scan anything to PDF.
 
@@ -25,7 +20,40 @@ Observe that Home > Scans has free Adobe Scan app download:
 
   Already and Adobe Scan user? Sign in to access your scans.
 
-o Adobe Scan
+This first updated Galaxy Store, A new version of the Galaxy
+store and Galaxy Themes is available.
+
+click Update
+Downloading Galaxy Themes...
+Installing
+Download the Galaxy Store... (23.78MB)
+Installing...
+
+Adobe Scan: PDF & Business Car...
+Adobe System Inc.
+click Install (58.74M)
+Installing...
+
+click Open
+
+Adobe Scan
+Welcome to Adobe Scan
+Use your mobile device to scan anything to PDF.
+The access the PDFs anytime anywhere from Adobe
+Document Cloud.
+
+Sign in with Google
+Sign in with Facebook
+
+Already have an Adobe ID?
+Sign in or sign up.
+
+
+Tue Oct 22 08:21:25 AKDT 2019
+=============================
+During Adobe Scan online presentation at SOA OIT DNR
+observed;
+
 - Auto-capture (icon) adobe finds 4-corners
   of document page automatically
 - crop, rotate
@@ -33,4 +61,11 @@ o Adobe Scan
          current page or all
 - can rename from datestamp to better name
 - creates editable, srearchable file
-NOTE: Not Adobe scan in the SOA OIT DNR applications
+- ctrl-z or edit > undo to undo last
+- to undo mutiple, mutiple hit on ctrl-z
+- searchable image, don't mess with the image, add searchable layer underneath
+- under Organize pages can drag-n-drop pages to desired location
+- under Search tools
+  click Add for an item to add to menu on right
+
+NOTE: No Adobe scan in the SOA OIT DNR applications
