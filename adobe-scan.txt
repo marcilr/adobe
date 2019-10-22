@@ -1,0 +1,36 @@
+adobe-scan.txt
+Created Tue Oct 22 08:21:08 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Adobe Scan
+
+
+Tue Oct 22 08:21:25 AKDT 2019
+=============================
+During Adobe Scan online presentation at SOA OIT DNR
+observed  I have Acrobat Reader Pro installed on
+workstation:
+
+  Adobe Acrobat Reader DC v2019.012.20035
+
+Observe that Home > Scans has free Adobe Scan app download:
+  Turn your phone of tablet into a portable scanner to
+  scan anything to PDF.
+
+  Download now.
+
+  Download on the App Store (Apple)
+  Get it on Google Play (Android)
+
+  Already and Adobe Scan user? Sign in to access your scans.
+
+o Adobe Scan
+- Auto-capture (icon) adobe finds 4-corners
+  of document page automatically
+- crop, rotate
+- color: autocolor or grayscale
+         current page or all
+- can rename from datestamp to better name
+- creates editable, srearchable file
+NOTE: Not Adobe scan in the SOA OIT DNR applications
