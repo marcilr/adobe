@@ -6,8 +6,6 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Adobe Acrobat
 
 
-
-
 I have Acrobat Reader Pro installed on
 SOA OIT DNR workstation:
 
