@@ -3,10 +3,18 @@ Created Tue Oct 22 08:51:46 AKDT 2019
 Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Adobe Acrobat
+Adobe Acrobat or Adobe Acrobat Pro DC
 
 
 I have Acrobat Reader Pro installed on
 SOA OIT DNR workstation:
 
   Adobe Acrobat Reader DC v2019.012.20035
+
+acrobat
+
+
+Commands
+========
+F7 - check spelling in comments
+fill and sign icon to populate series of conneted boxes
